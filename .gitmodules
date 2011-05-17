@@ -1,19 +1,19 @@
-[submodule "jquery"]
+[submodule "garden/jquery"]
 	path = garden/jquery
 	url = https://github.com/jquery/jquery.git
 	
-[submodule "klass"]
+[submodule "garden/klass"]
 	path = garden/klass
 	url = https://github.com/ded/klass.git
 	
-[submodule "mustache.js"]
-	path = garden/mustache
+[submodule "garden/mustache.js"]
+	path = garden/mustache.js
 	url = https://github.com/janl/mustache.js.git
 	
-[submodule "underscore"]
+[submodule "garden/underscore"]
 	path = garden/underscore
 	url = https://github.com/documentcloud/underscore.git
 	
-[submodule "modernizr"]
+[submodule "garden/modernizr"]
 	path = garden/modernizr
 	url = https://github.com/Modernizr/Modernizr.git
