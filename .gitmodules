@@ -1,19 +1,15 @@
 [submodule "garden/jquery"]
 	path = garden/jquery
-	url = https://github.com/jquery/jquery.git
-	
+	url = git://github.com/jquery/jquery.git
 [submodule "garden/klass"]
 	path = garden/klass
-	url = https://github.com/ded/klass.git
-	
+	url = git://github.com/ded/klass.git
 [submodule "garden/mustache.js"]
 	path = garden/mustache.js
-	url = https://github.com/janl/mustache.js.git
-	
+	url = git://github.com/janl/mustache.js.git
 [submodule "garden/underscore"]
 	path = garden/underscore
-	url = https://github.com/documentcloud/underscore.git
-	
+	url = git://github.com/documentcloud/underscore.git
 [submodule "garden/modernizr"]
 	path = garden/modernizr
-	url = https://github.com/Modernizr/Modernizr.git
+	url = git://github.com/Modernizr/Modernizr.git
