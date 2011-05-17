@@ -1,8 +1,8 @@
 ###ninjs - Javascript Ninja's Garden
 
 How will you choose a javascript library? google? Maybe google will helpful. But it's usually be difficult to select the right one in a mount of libraries.
-what's is ninjs?
-Ninjs helps you discover the most excellent library, and makes it easy for you to pick one that will work for you. 
+That is ninjs,
+it helps you discover the most excellent library, and makes it easy for you to pick one that will work for you. 
 
 ###Garden
 
