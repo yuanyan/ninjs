@@ -8,7 +8,11 @@ it helps you discover the most excellent library, and makes it easy for you to p
 
 [jQuery](http://jquery.com/) - New Wave JavaScript
 
-[Underscore](http://documentcloud.github.com/underscore) - A utility-belt that provides functional programming support that you would expect in Ruby.  
+[Backbone](http://documentcloud.github.com/backbone/) - Give your JS App some Backbone with Models, Views, Collections, and Events
+
+[Underscore](http://documentcloud.github.com/underscore) - A utility-belt that provides functional programming support that you would expect in Ruby.
+
+[Sammy](http://sammyjs.org) - Sammy is a tiny javascript framework built on top of jQuery, It's RESTful Evented Javascript.
 
 [Mustache](http://mustache.github.com/) - Minimal, logic-less templating with {{mustaches}}. Great for server- or client-side templating.  
 
@@ -16,6 +20,7 @@ it helps you discover the most excellent library, and makes it easy for you to p
 
 [Modernizr](http://www.modernizr.com/) - Detects native CSS3 and HTML5 features available in the current browser.
 
+[zepto.js](http://zeptojs.com) - zepto.js is a minimalist inlinable framework for mobile WebKit browsers, with a jQuery-like chaining syntax 
 
 ###Link
 

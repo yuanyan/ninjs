@@ -13,3 +13,15 @@
 [submodule "garden/modernizr"]
 	path = garden/modernizr
 	url = git://github.com/Modernizr/Modernizr.git
+[submodule "garden/jquerytools"]
+	path = garden/jquerytools
+	url = git://github.com/jquerytools/jquerytools.git
+[submodule "garden/backbone"]
+	path = garden/backbone
+	url = git://github.com/documentcloud/backbone.git
+[submodule "garden/sammy"]
+	path = garden/sammy
+	url = git://github.com/quirkey/sammy.git
+[submodule "garden/zepto"]
+	path = garden/zepto
+	url = git://github.com/madrobby/zepto.git
